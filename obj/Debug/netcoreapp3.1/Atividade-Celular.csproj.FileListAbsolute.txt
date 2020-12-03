@@ -1,0 +1,13 @@
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\obj\Debug\netcoreapp3.1\Atividade-Celular.csprojAssemblyReference.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\obj\Debug\netcoreapp3.1\Atividade-Celular.AssemblyInfoInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\obj\Debug\netcoreapp3.1\Atividade-Celular.AssemblyInfo.cs
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\obj\Debug\netcoreapp3.1\Atividade-Celular.csproj.CoreCompileInputs.cache
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\bin\Debug\netcoreapp3.1\Atividade-Celular.exe
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\bin\Debug\netcoreapp3.1\Atividade-Celular.deps.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\bin\Debug\netcoreapp3.1\Atividade-Celular.runtimeconfig.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\bin\Debug\netcoreapp3.1\Atividade-Celular.runtimeconfig.dev.json
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\bin\Debug\netcoreapp3.1\Atividade-Celular.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\bin\Debug\netcoreapp3.1\Atividade-Celular.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\obj\Debug\netcoreapp3.1\Atividade-Celular.dll
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\obj\Debug\netcoreapp3.1\Atividade-Celular.pdb
+C:\Users\Alan\Desktop\C# Aula 1\Atividade-Celular\obj\Debug\netcoreapp3.1\Atividade-Celular.genruntimeconfig.cache
